@@ -5,7 +5,6 @@ using System;
 
 public class Clock : MonoBehaviour
 {
-
 	const float hoursToDegrees = -30f, minutesToDegrees = -6f, secondsToDegrees = -6f;
 
 	[SerializeField]
